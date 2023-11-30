@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  background-color: blue; 
+   
+}
+h1 {
+  font-size: 70px;
+  color: aquamarine;
+}
+footer {
+  border:2px solid blue;
+  background-color: bisque; 
+}
+nav a {
+  color: cadetblue;
+  margin: 30px;
+}
+nav {
+  background-color: chartreuse;
+}
+h2 {
+  color: royalblue;
+  font-size:40px ;
+}
+.slika { 
+  width: 750px;
+}
+.grupa {
+  background-color: aqua;
+}
+main {
+  padding:10px;
+}
+p {
+  font-size:25px;
+}
